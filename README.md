@@ -10,7 +10,7 @@
 
 #### $ npm init
 #### $ npm install -g @google/clasp
-#### $ npm i -S @types/google-app-script
+#### $ npm i -S @types/google-apps-script
 #### $ clasp login
 #### $ clasp clone "ID DO PROJETO CRIADO"
 #### $ clasp push  (PARA ENVIAR DADOS)
